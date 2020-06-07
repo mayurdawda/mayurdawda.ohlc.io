@@ -1,0 +1,10 @@
+@import url('https://code.highcharts.com/css/stocktools/gui.css');
+@import url('https://code.highcharts.com/css/annotations/popup.css');
+
+html, body {
+  height: 100%;
+}
+
+h1, p {
+  font-family: Lato;
+}
